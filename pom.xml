@@ -15,7 +15,7 @@
 		<bdf2.swfviewer.version>2.0.6-SNAPSHOT</bdf2.swfviewer.version>
 		<bdf2.webservice.version>2.0.3-SNAPSHOT</bdf2.webservice.version>
 		<dorado.core.version>7.5.2</dorado.core.version>
-		<dorado.uploader.version>1.0.19</dorado.uploader.version>
+		<dorado.uploader.version>1.0.20</dorado.uploader.version>
 		<dorado.hibernate.version>1.2.2</dorado.hibernate.version>
 		<dorado.intro.version>0.2.4</dorado.intro.version>
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
