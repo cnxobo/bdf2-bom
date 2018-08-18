@@ -34,8 +34,8 @@ BDF2 本身Jar包版本管理混乱，所以我使用该项目统一管理 bdf �
     <dependency>
       <groupId>com.bstek.bdf2</groupId>
       <artifactId>bdf2-core</artifactId>
-			<!-- 应该删除的 version 节点 -->
-			<!--  <version>2.0.9</version> -->
+	  <!-- 应该删除的 version 节点 -->
+	  <!--  <version>2.0.9</version> -->
     </dependency>
     <dependency>
       <groupId>org.hsqldb</groupId>
@@ -45,7 +45,7 @@ BDF2 本身Jar包版本管理混乱，所以我使用该项目统一管理 bdf �
   </dependencies>
   <dependencyManagement>
     <dependencies>
-			<!-- bdf2 版本管理 -->
+	  <!-- bdf2 版本管理 -->
       <dependency>
         <groupId>org.xobo.dorado</groupId>
         <artifactId>bdf2-bom</artifactId>
