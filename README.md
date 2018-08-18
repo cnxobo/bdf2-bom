@@ -11,10 +11,10 @@ BDF2 本身Jar包版本管理混乱，所以我使用该项目统一管理 bdf �
   <dependencies>
     <dependency>
       <groupId>org.xobo.dorado</groupId>
-	    <artifactId>bdf2-bom</artifactId>
+      <artifactId>bdf2-bom</artifactId>
       <version>0.0.1</version>
       <type>pom</type>
-	    <scope>import</scope>
+      <scope>import</scope>
     </dependency>
   </dependencies>
 </dependencyManagement>
